@@ -4,3 +4,6 @@ MTCNN (multi-task Convolutional Neural Network) face recognition can help us to 
 develop from https://github.com/ipazc/mtcnn 
 
 the goal is to create own face dataset. an image will cropped face with five points (eyes, nose, lips)
+
+Credit:image2.jpg 
+source:https://en.wikipedia.org/wiki/Scarlett_Johansson
